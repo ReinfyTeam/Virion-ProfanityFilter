@@ -33,4 +33,5 @@ An [example plugin](https://github.com/ReinfyTeam/ProfanityFilter-ExamplePlugin)
 
   ProfanityFilter::detectProfanity($message, ProfanityFilter::defaultProfanity());
   ```
+
 <p align="right">Made by <a href="https://github.com/ReinfyTeam">ReinfyTeam</a> :heart:</p>
