@@ -22,7 +22,7 @@
 
 declare(strict_types=1);
 
-namespace ReinfyTeam\ProfanityFilter;
+namespace ReinfyTeam\libpf\libpf;
 
 use Exception;
 use function mb_strlen;
@@ -33,7 +33,7 @@ use function str_repeat;
 use function str_replace;
 use function strlen;
 
-final class ProfanityFilter {
+final class libpf {
 	/**
 	 * Whether to detect message on provided words.
 	 */
