@@ -1,4 +1,4 @@
---- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/ReinfyTeam/Virion-ProfanityFilter
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/ReinfyTeam/libpf
 build-by-default: true
 branches:
 - stable
