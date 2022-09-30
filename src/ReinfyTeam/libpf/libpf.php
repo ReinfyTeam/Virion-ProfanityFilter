@@ -22,7 +22,7 @@
 
 declare(strict_types=1);
 
-namespace ReinfyTeam\libpf\libpf;
+namespace ReinfyTeam\libpf;
 
 use Exception;
 use function mb_strlen;
